@@ -9,6 +9,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  * Servlet implementation class Listaa
+ * @author altlag 2014
  */
 @WebServlet("/Listaa")
 public class Listaa extends HttpServlet {
