@@ -27,7 +27,7 @@ public class Listaa extends HttpServlet {
 	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		// N‰ihin mielekk‰‰t kommentit
+		// N‰ihin mielekk‰‰t kommentit, toki ensin mielekk‰‰t sis‰llˆt :)
 	}
 
 	/**
