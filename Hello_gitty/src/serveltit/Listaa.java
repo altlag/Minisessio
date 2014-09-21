@@ -28,6 +28,8 @@ public class Listaa extends HttpServlet {
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// Näihin mielekkäät kommentit, toki ensin mielekkäät sisällöt :)
+		
+		//olikohan siinä kaikki tältä päivältä?
 	}
 
 	/**
