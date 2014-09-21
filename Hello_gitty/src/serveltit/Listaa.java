@@ -21,6 +21,7 @@ public class Listaa extends HttpServlet {
     public Listaa() {
         super();
         // TODO Auto-generated constructor stub
+        // todo auto-generated source code
     }
 
 	/**
@@ -37,6 +38,7 @@ public class Listaa extends HttpServlet {
 	 */
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
+		// doItella...
 	}
 
 }
